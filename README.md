@@ -1,4 +1,4 @@
-# LLM-Bechmark-Smart
+# LLM-Commonsense-Benchmark
 
 ## Motivation
 
