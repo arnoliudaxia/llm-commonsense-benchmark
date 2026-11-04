@@ -21,7 +21,7 @@ Windows10 + pi v1.5.0 + 各模型开最高思考
 | --- | --- | --- | --- |
 | GPT 6.1 Sol | 通过 | 1min | 秒了 |
 | GPT 6 Astra | 通过 | 1min | 秒了 |
-| GLM 5.3 Flash | 通过 | 10m | 看着菜，其实是国模里最强的了 |
+| GLM 5.3 Flash | 通过 | 10min | 看着菜，其实是国模里最强的了 |
 | Qwen3.8 Max | 通过 | 20min | 孩子傻，但是孩子肯用工 |
 | MiMo V2.6 Flash | 通过 | 21min | 孩子傻，但是孩子肯用工 |
 | Claude Fable 5.1 | 未通过 | - |  |
