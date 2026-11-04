@@ -32,6 +32,7 @@ Windows10 + pi v1.5.0 + 各模型开最高思考
 | DeepSeek V4.1 Flash | 未通过 | - |  |
 | Gemini 4 Argon | 未通过 | - |  |
 | GLM 5.3 | 未通过 | - |  |
+| GPT 6.1 Terra | 未通过 | - |  |
 | Grok 4.7 | 未通过 | - |  |
 | HY4 Preview | 未通过 | - |  |
 | LongCat 2.0 | 未通过 | - |  |
