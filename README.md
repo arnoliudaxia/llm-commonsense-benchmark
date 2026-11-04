@@ -42,3 +42,5 @@ Windows10 + pi v1.5.0 + 各模型开最高思考
 | MiniMax M3.1 Flash | 未通过 | - |  |
 | Qwen3.8 Flash | 未通过 | - |  |
 | Step 5 Preview | 未通过 | - |  |
+
+共测试 23 个模型，通过 5 个，未通过 18 个，通过率 21.7%。
